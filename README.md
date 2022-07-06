@@ -1,4 +1,4 @@
-# Game Centre
+# MultiGame
 
 An Android application consisting of three board games (Sliding Tiles, Hangman and Tic Tac Toe). Complete with the following functionalities: multiplayer support, autosave, user authentication, complexity preference, unlimited undos, et cetera.
 
