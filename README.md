@@ -17,7 +17,7 @@ Hangman                        |  Home Screen                  | Sliding Tiles
 3) Under URL, paste the following project link:
 
 ```
-https://github.com/jodenrey/GameCentre.git
+https://github.com/jodenrey/MultiGame.git
 ```
 Click yes to proceed onto Version Control checkout.
 
